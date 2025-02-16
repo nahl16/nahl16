@@ -4,7 +4,11 @@
 <h1 align="center">Hello there, I'm Nahl</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Pentester | Web App Sec Analyst |</h3>
 
-    
+---
+
+## Certifications:
+<div style="text-align: center;">
+    <img src="Images/eJPT.png" alt="eJPT" width="100">
 ---
 
 ## Connect with me:
