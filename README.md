@@ -15,7 +15,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/nahl-imran-1781a227b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahl-imran-1781a227b/" height="30" width="40" /></a>
-<a href="https://discord.gg/nahl.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nahl.04" height="30" width="40" /></a>
+<a href="[https://discord.gg/nahl.04](https://discord.com/channels/@me)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nahl.04" height="30" width="40" /></a>
 </p>
 
 ---
