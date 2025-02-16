@@ -8,6 +8,7 @@
 ## Certifications:
 <div style="text-align: center;">
     <img src="eJPT.png" alt="eJPT" width="100">
+
 ---
 
 ## Connect with me:
