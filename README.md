@@ -1,4 +1,5 @@
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%2336BCF7&vCenter=true&height=35&lines=%23+Cyber+Security+Analyst;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Red+Teamer+;%E2%9C%93+Web+Exploitation)
 
 <h1 align="center">Hello there, I'm Nahl</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Pentester | Web App Sec Analyst |</h3>
