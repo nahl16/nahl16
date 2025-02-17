@@ -30,7 +30,7 @@
 
 ---
 
-- Reach me at:
+- Contact:
 
  **nahlimran16@gmail.com**
 
