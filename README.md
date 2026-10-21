@@ -9,6 +9,8 @@
 ## Certifications:
 <div style="text-align: center;">
     <img src="eJPT.png" alt="eJPT" width="100">
+<div style="text-align: center;">
+    <img src="eJPT.png" alt="crta" width="100">
 
 ---
 
