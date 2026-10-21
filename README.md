@@ -9,7 +9,7 @@
 ## Certifications:
 <div style="display: flex; gap: 10px; justify-content: center;">
     <img src="eJPT.png" alt="eJPT" width="100">
-    <img src="crta.png" alt="CRTA" width="100">
+    <img src="crta.png" alt="CRTA" width="120">
 </div>
 
 ---
